@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "EVIL",
+  "base_artist": "Hilcrhyme",
+  "createdAt": "2026-02-12T06:12:18.888689Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Evil Death Roll",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_Evil_Death_Roll_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Evil Death Roll - Live in San Francisco '16",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Evil_Death_Roll_-_Live_in_San_Francisco_'16_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Evil Man",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Evil_Man_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Evil - Axl of Evil Mix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/04_Evil_-_Axl_of_Evil_Mix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Evil - M-Factor Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/05_Evil_-_M-Factor_Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "All We Got Iz Us (Evil Streets)",
+      "artist": "Onyx",
+      "has_synced": true,
+      "path": "select/06_All_We_Got_Iz_Us_(Evil_Streets)_Onyx.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Meets Evil",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/07_Bad_Meets_Evil_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Evil Deeds",
+      "artist": "Eminem",
+      "has_synced": false,
+      "path": "select/08_Evil_Deeds_Eminem.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Evil Twin",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/09_Evil_Twin_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Super Evil",
+      "artist": "Die Antwoord",
+      "has_synced": false,
+      "path": "select/10_Super_Evil_Die_Antwoord.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Evil Black Magic",
+      "artist": "Zumpano",
+      "has_synced": false,
+      "path": "select/11_Evil_Black_Magic_Zumpano.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Evil",
+      "artist": "jonatan leandoer96",
+      "has_synced": true,
+      "path": "select/12_Evil_jonatan_leandoer96.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scott Evil",
+      "artist": "Young Nudy",
+      "has_synced": true,
+      "path": "select/13_Scott_Evil_Young_Nudy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Evil",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/14_Evil_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Evil Bee",
+      "artist": "Menomena",
+      "has_synced": true,
+      "path": "select/15_Evil_Bee_Menomena.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "EVIL",
+      "artist": "Hilcrhyme",
+      "has_synced": false,
+      "path": "select/pl_01_EVIL_Hilcrhyme.txt"
+    }
+  ]
+}
